@@ -1,18 +1,18 @@
 {
-  "name": "node",
-  "version": "1.0.0",
-  "description": "node",
-  "main": "index.js",
-  "private": false,
-  "scripts": {
-    "start": "node index.js",
-    "build": "echo \"No build needed for static site\""
-  },
-  "dependencies": {
-    "axios": "latest",
-    "express": "^4.18.2"
-  },
-  "engines": {
-    "node": ">=14"
-  }
+    "name": "gla-2601-fix",
+    "version": "1.0.0",
+    "description": "Fixed version - Health check 404 issue resolved",
+    "main": "index.js",
+    "private": false,
+    "scripts": {
+        "start": "node index.js",
+        "build": "echo \"No build needed for static site\""
+    },
+    "dependencies": {
+        "axios": "latest",
+        "express": "^4.18.2"
+    },
+    "engines": {
+        "node": ">=14"
+    }
 }
